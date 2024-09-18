@@ -1,3 +1,6 @@
+![Hi 👋, there_20240917_124154_0000](https://github.com/user-attachments/assets/7787494a-8888-42e1-a845-717b5f90983f)
+
+
 # 💫 About Me:
 🔭 I’m currently working on technologies such as Django,TensorFlow<br>👯 I’m looking to collaborate on projects based on full stack and model building <br>🤝 I’m looking for help with people who guide me the right path <br>🌱 I’m currently learning mathematics and machine learning <br>💬 Ask me about languages such as python<br>
 
