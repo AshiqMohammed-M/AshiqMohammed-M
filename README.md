@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/9014f10a-523c-4431-b729-c8b7bf7e5904)
+
+![1000195038](https://github.com/user-attachments/assets/269d5e69-e46a-4625-bac1-7848263dacd7)
 
 # 💫 About Me:
 🔭 I’m currently working on technologies such as Django,TensorFlow<br>👯 I’m looking to collaborate on projects based on full stack and model building <br>🤝 I’m looking for help with people who guide me the right path <br>🌱 I’m currently learning mathematics and machine learning <br>💬 Ask me about languages such as python<br>🌟fun fact : *I'm from mars!*<br>
